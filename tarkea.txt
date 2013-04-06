@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 kirjotetaas tahan jotain teksitääääääadsaofasdsdoajotainloppuunjejejejeee
+=======
+kirjotetaas tahan jotain teksitääääääadsaofasdsdoloppuunkaikkeepaskaa
+>>>>>>> toka
+
+conflict korjattu
